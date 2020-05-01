@@ -24,6 +24,7 @@ class HelloDockerRestController {
 		System.out.println(response);
 		return response;
 		System.out.println("hello");
+		System.out.println("hello");
 
 	}
 }
